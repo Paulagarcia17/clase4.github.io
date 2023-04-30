@@ -1,0 +1,61 @@
+.dias 
+{
+    background-color: rgb(247, 218, 175);
+    color: black;
+    font-size: 75px;
+    font-weight: bold;   
+}
+
+.dias-semana 
+{
+    background-color: rgb(243, 206, 125);
+    color: black;
+    font-size: 50px;
+    font-weight: bold; 
+}
+
+.horarios 
+{
+    color: black;
+    font-size: 25px;
+    font-style: italic;  
+}
+
+.lunes
+{
+    background-color:rgb(245, 193, 96);
+    
+}
+
+.martes 
+{
+    background-color:rgb(243, 182, 101);
+  
+}
+
+.miercoles
+
+{
+    background-color:rgb(240, 182, 59);
+ 
+}
+.jueves
+{
+    background-color:rgb(241, 190, 50);
+
+}
+.viernes
+{
+    background-color:rgb(243, 161, 38);
+ 
+}
+.sabados 
+{
+    background-color:rgb(245, 171, 33);
+
+}
+.domingos 
+{
+    background-color:rgb(236, 176, 8);
+
+}
